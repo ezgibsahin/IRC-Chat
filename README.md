@@ -11,4 +11,4 @@ We must have a chat server and we may have more than one client. The server must
 ● -quit room_name: Quit from the room that you are in. You come back to the common area.\
 ● -msg message_body: Sends a message to room that you are in. Your and the others' messages should look different in the room.\
 ● -whoami: Shows your own nickname information. \
-● -exit: Exit the program.\
+● -exit: Exit the program.
